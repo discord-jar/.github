@@ -4,5 +4,4 @@
 # discord.jv - a clean Java wrapper for Discord
 discord.jv [![loc - discord.jv](https://sloc.xyz/github/seailz/discord.jv)](https://github.com/seailz/discord.jv) is a **work in progress** Java wrapper for the [Discord API](https://discord.com/developers/docs/intro).
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=discord-jv)](https://seailz.com)
 Created by <a href="https://www.github.com/seailz">@seailz</a>
